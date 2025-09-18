@@ -1,1 +1,2 @@
-print ('Hello world')
+nombre = imput ('Escribe tu nombre: ')
+print ('Hello (nombre)')
