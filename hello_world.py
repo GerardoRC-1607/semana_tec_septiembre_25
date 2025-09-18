@@ -1,2 +1,2 @@
 nombre = input ('Escribe tu nombre: ')
-print ('Hello (nombre)')
+print (f'Hello (nombre)')
